@@ -1,2 +1,10 @@
 # coding-jobs-for-cheap
-chec
+I am a armature coder
+i code with 
+C++ 
+JavaScript
+HTML
+And C#
+I take any price from 5 dollars
+If I fail you get money back
+(This is my first buisness) 
