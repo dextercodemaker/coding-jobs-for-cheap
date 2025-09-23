@@ -1,5 +1,5 @@
 # coding-jobs-for-cheap
-I am a armature coder
+I am a Amateur coder
 i code with 
 C++ 
 JavaScript
